@@ -132,21 +132,23 @@ I like taking an idea from:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamkuwarbi1-ai&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkuwarbi1-ai&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180"/>
-
-</div>
-
-<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shubhamkuwarbi1-ai&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamkuwarbi1-ai&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkuwarbi1-ai&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com/?user=shubhamkuwarbi1-ai&theme=tokyonight&hide_border=true" width="70%" />
+
+</div>
+
 
 ---
 
